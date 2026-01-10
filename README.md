@@ -1,10 +1,14 @@
 
 
-<p align="center">
-  
-![art by c-fish](https://github.com/user-attachments/assets/f0162bc0-a80c-4754-82c6-9a9ad469b6d0)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f0162bc0-a80c-4754-82c6-9a9ad469b6d0" alt="art by c-fish">
+</div>
+<div align="center">
+ 
+**[art by c-fish](https://www.tumblr.com/c-fish)**  
 
-</p>
+
+</div>
 
 
 <p align="center">
