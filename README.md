@@ -7,11 +7,9 @@
  
 **[art by c-fish](https://www.tumblr.com/c-fish)**  
 
-
-</div>
-
-
 <p align="center">
   <a href="https://hits.sh/github.com/carvedquestion/hits/"><img alt="Hits" src="https://hits.sh/github.com/carvedquestion/hits.svg?color=81a90e"/></a>
 <p align="center">
 </p>
+
+☠︎︎ [atabook](https://carvedquestion.atabook.org)  ـــــﮩ٨ـ [strawpage](https://carvedquestion.straw.page) ☠︎︎
