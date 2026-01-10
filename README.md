@@ -1,15 +1,15 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f0162bc0-a80c-4754-82c6-9a9ad469b6d0" alt="art by c-fish">
+  <img width="502" height="319" alt="Screenshot 2026-01-10 at 2 15 15 PM" src="https://github.com/user-attachments/assets/a6ee812b-87dd-426b-8c1d-e430d36b6cf7" />
 </div>
 <div align="center">
  
 **[art by c-fish](https://www.tumblr.com/c-fish)**  
 
 <p align="center">
-  <a href="https://hits.sh/github.com/carvedquestion/hits/"><img alt="Hits" src="https://hits.sh/github.com/carvedquestion/hits.svg?color=81a90e"/></a>
+  <a href="https://hits.sh/github.com/carvedquestion/hits/"><img alt="Hits" src="https://hits.sh/github.com/carvedquestion/hits.svg?color=c08552"/></a>
 <p align="center">
 </p>
 
-☠︎︎ [atabook](https://carvedquestion.atabook.org)  ـــــﮩ٨ـ [strawpage](https://carvedquestion.straw.page) ☠︎︎
+☠︎︎ [atabook](https://carvedquestion.atabook.org)  ـــــﮩ٨ـ [strawpage](https://carvedquestion.straw.page) ـــــﮩ٨ـ [last.fm](https://www.last.fm/user/eddie01001110) ☠︎︎
