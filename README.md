@@ -5,7 +5,7 @@
  
 **[art by c-fish](https://www.tumblr.com/c-fish)**  
 
-$\color{d2691e}{\textsf{please cuddle+hug w me!! w2i most of the time :)}}$ <br>
+<p style="font-family: \'Times New Roman\', Times, serif;">cuddles + hugs encouraged! online most of the time, but when i'm online fluctuates a lot; busy half the time i'm online too...</p>
 
 <p align="center">
   <a href="https://hits.sh/github.com/carvedquestion/hits/"><img alt="Hits" src="https://hits.sh/github.com/carvedquestion/hits.svg?color=c08552"/></a>
