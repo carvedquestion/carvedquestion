@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="502" height="319" alt="Screenshot 2026-01-10 at 2 15 15 PM" src="https://github.com/user-attachments/assets/fac755fa-3309-443c-9df4-b777ecd5febf" />
+    <img width="502" height="319" alt="Screenshot 2026-01-10 at 2 15 15 PM" src="https://img.sanishtech.com/u/890e8ad025ffd3bdc5a81b51e7041e19.jpg" />
 </div>
 <div align="center">
  
