@@ -5,7 +5,7 @@
  
 **[art by c-fish](https://www.tumblr.com/c-fish)**  
 
-$\color{d2691e}{\textsf{please cuddle+hug w me!! w2i most of the times :)}}$ <br>
+$\color{d2691e}{\textsf{please cuddle+hug w me!! w2i most of the time :)}}$ <br>
 
 <p align="center">
   <a href="https://hits.sh/github.com/carvedquestion/hits/"><img alt="Hits" src="https://hits.sh/github.com/carvedquestion/hits.svg?color=c08552"/></a>
