@@ -1,11 +1,10 @@
 <div align="center">
-    <img width="502" height="319" alt="Screenshot 2026-01-10 at 2 15 15 PM" src="https://img.sanishtech.com/u/890e8ad025ffd3bdc5a81b51e7041e19.jpg" />
+    <img width="510" height="305" alt="Screenshot 2026-01-10 at 2 15 15 PM" src="https://i.pinimg.com/736x/db/a9/15/dba91506c566c71de50bcf8bdc572925.jpg" />
 </div>
 <div align="center">
- 
-**[art by c-fish](https://www.tumblr.com/c-fish)**  
-
-<p style="font-family: \'Times New Roman\', Times, serif;">cuddles + hugs encouraged! online most of the time, but when i'm online fluctuates a lot; busy half the time i'm online too...</p>
+    
+<p style="font-family: 'Times New Roman', serif;">
+    cuddles + hugs encouraged! online most of the time, but when i'm online fluctuates a lot; busy half the time i'm online too...</p>
 
 <p align="center">
   <a href="https://hits.sh/github.com/carvedquestion/hits/"><img alt="Hits" src="https://hits.sh/github.com/carvedquestion/hits.svg?color=c08552"/></a>
