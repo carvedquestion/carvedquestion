@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="510" height="305" alt="Screenshot 2026-01-10 at 2 15 15 PM" src="https://i.pinimg.com/736x/db/a9/15/dba91506c566c71de50bcf8bdc572925.jpg" />
+    <img width="510" height="305" alt="Brokeback Mountain" src="https://www.image2url.com/r2/default/images/1778591893827-85609a3a-95a0-43ce-85ac-2938fb06e556.webp" />
 </div>
 <div align="center">
 
