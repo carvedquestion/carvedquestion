@@ -14,4 +14,8 @@
 <p align="center">
 </p>
 
-<i> ☠︎︎ <sup> [atabook](https://carvedquestion.atabook.org) </sup>ـــــﮩ٨ـ <sub>[strawpage](https://carvedquestion.straw.page)</sub> ـــــﮩ٨ـ <sup>[last.fm](https://www.last.fm/user/eddie01001110) </sup>☠︎︎ </i> 
+<i> ☠︎︎ <sup> [atabook](https://carvedquestion.atabook.org) </sup>ـــــﮩ٨ـ <sub>[strawpage](https://carvedquestion.straw.page)</sub> ـــــﮩ٨ـ <sup>[last.fm](https://www.last.fm/user/eddie01001110) </sup>☠︎︎ </i>
+
+───── ⋆⋅𖤓⋅⋆ ───── 
+
+<sup> <i> <b> ˖ ࣪ ꉂ🎬 [guns.lol](https://guns.lol/jonnybyers) ˙🧳.꩜‹ </b> </i> <sup>
