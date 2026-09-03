@@ -14,7 +14,7 @@
 <p align="center">
 </p>
 
-<i> ☠︎︎ <sup> [atabook](https://carvedquestion.atabook.org) </sup>ـــــﮩ٨ـ <sub>[strawpage](https://carvedquestion.straw.page)</sub> ـــــﮩ٨ـ <sup>[last.fm](https://www.last.fm/user/eddie01001110) </sup>☠︎︎ </i>
+<i> ☠︎︎ <sup> [atabook](https://carvedquestion.atabook.org) </sup>ـــــﮩ٨ـ <sub>[strawpage 1](https://carvedquestion.straw.page)</sub> ـــــﮩ٨ـ <sup>[last.fm](https://www.last.fm/user/eddie01001110) </sup>ـــــﮩ٨ـ </i> <sub>[strawpage 2](https://empirerecords.straw.page)</sub> ☠︎︎
 
 ───── ⋆⋅𖤓⋅⋆ ───── 
 
