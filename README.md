@@ -8,6 +8,12 @@
     <img width="510" height="305" alt="Screenshot 2026-01-10 at 2 15 15 PM" src="https://i.ibb.co/kskmyCGL/1001539930.png" />
 </div>
 <div align="center">
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31crnozk2is2fmdhfqcgdzhrnhcm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=794f2a&bar_color_cover=false">
+  </a>
+</p>
     
 <p align="center">
   <a href="https://hits.sh/github.com/carvedquestion/hits/"><img alt="Hits" src="https://hits.sh/github.com/carvedquestion/hits.svg?color=c08552"/></a>
